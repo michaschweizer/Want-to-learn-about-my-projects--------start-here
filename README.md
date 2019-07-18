@@ -8,7 +8,7 @@ Thank you for your interest in my work as a data scientist. On this github accou
 I included multiple data-related topics that I explored through various projects in the last couple months. The projects showcased originated from several sources:
 * Course work for my Masters in Business Analytics at GWU
 * Projects conducted in my role as a Data Scientist at Data Society
-* Ideas collected in my role as a Management Consultang at The Boston Consulting Group
+* Ideas collected in my role as a Management Consultant at The Boston Consulting Group
 * Entrepreneurial initiatives
 * Personal topics of interest
 
