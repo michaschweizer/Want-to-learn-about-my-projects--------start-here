@@ -18,14 +18,14 @@ Topics covered include the following:
 
 | Contents | Description |
 |---|---|
-| [Section 01: Machine Learning](1-keras-and-tensorflow) | xxx|
-| [Section 02: Big Data](2-pytorch) |xxx|
-| [Section 03: SQL Databases](3-transfer-learning-model) |xxx|
-| [Section 04: Visualization](3-transfer-learning-model) |xxx|
-| [Section 05: Web Scraping](3-transfer-learning-model) |xxx|
-| [Section 06: Excel Modelling](3-transfer-learning-model) |xxx|
-| [Section 07: Communication](3-transfer-learning-model) |xxx|
-| [Section 08: Creating Business Value](3-transfer-learning-model) |xxx|
+| [Machine Learning](1-keras-and-tensorflow) | xxx|
+| [Big Data](2-pytorch) |xxx|
+| [SQL Databases](3-transfer-learning-model) |xxx|
+| [Visualization](3-transfer-learning-model) |xxx|
+| [Web Scraping](3-transfer-learning-model) |xxx|
+| [Excel Modelling](3-transfer-learning-model) |xxx|
+| [Communication](3-transfer-learning-model) |xxx|
+| [Creating Business Value](3-transfer-learning-model) |xxx|
 
 
 
