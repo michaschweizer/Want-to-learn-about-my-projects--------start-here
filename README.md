@@ -32,9 +32,11 @@ Topics covered include the following:
 
 In regards, we chose the 'Aerial Cactus Identification' (https://www.kaggle.com/c/aerial-cactus-identification), where we were to identify if an image has a specific type of cactus from different aerial angles. 
 
-### Dataset
+### Machine Learning
 
-The dataset contains 17500 aerial images of a certain type of cactus. The image files were already unified in size, which made it more convenient in terms of image preprocessing. The training images were labelled with a binary value `has_cactus` = 1 or 0.
+This repo showcases two ML projects. Deep Learning using Keras is a project conducted as part of the Aerial Cactus Identification competition on Kaggle. 
+
+
 
 ## Approaches
 
