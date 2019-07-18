@@ -6,8 +6,12 @@ Thank you for your interest in my work as a data scientist. On this github accou
 
 ## Topics covered
 I included multiple data-related topics that I explored through various projects in the last couple months. The projects showcased originated from several sources:
-* Course work related to the Masters in Business Analytics at GWU
-* sss
+* Course work for my Masters in Business Analytics at GWU
+* Projects conducted in my role as a Data Scientist at Data Society
+* Entrepreneurial initiatives
+* Personal topics of interest
+
+
 
 In regards, we chose the 'Aerial Cactus Identification' (https://www.kaggle.com/c/aerial-cactus-identification), where we were to identify if an image has a specific type of cactus from different aerial angles. 
 
