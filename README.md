@@ -24,7 +24,7 @@ Topics covered include the following:
 | [SQL Databases](3-transfer-learning-model) | Building star schema data warehouse and querying data using SQL|
 | [Visualization](3-transfer-learning-model) |RShiny; Network visualization with R; Python Leaflet|
 | [Web Scraping](3-transfer-learning-model) |Scraping tabular data from websites|
-| [Excel Modelling](3-transfer-learning-model) |Monte Carlo simulations; Financial modelling|
+| [Excel Modeling](3-transfer-learning-model) |Monte Carlo simulations; Financial modelling|
 | [Communication](3-transfer-learning-model) |Presentation created for WMATA; Article written for Elite Daily|
 | [Creating Business Value](3-transfer-learning-model) |Takeaways from I-Corps entrepreneurship program|
 
