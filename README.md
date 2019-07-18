@@ -17,7 +17,7 @@ The projects showcased include individual projects as well as group projects.
 
 Topics covered include the following:
 
-| Contents | Description |
+| Topic | Description |
 |---|---|
 | [Machine Learning](1-keras-and-tensorflow) | Deep Learning using Keras; ML on structured data using h20.ai |
 | [Big Data](2-pytorch) |Image classification with Spark running on an AWS Hadoop cluster|
