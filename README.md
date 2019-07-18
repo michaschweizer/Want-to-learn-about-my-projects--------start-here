@@ -19,9 +19,9 @@ Topics covered include the following:
 
 | Contents | Description |
 |---|---|
-| [Machine Learning](1-keras-and-tensorflow) | xxx|
-| [Big Data](2-pytorch) |xxx|
-| [SQL Databases](3-transfer-learning-model) |xxx|
+| [Machine Learning](1-keras-and-tensorflow) | Deep Learning using Keras, ML on structured data using h20.ai |
+| [Big Data](2-pytorch) |Image classification with Spark running on an AWS Hadoop cluster|
+| [SQL Databases](3-transfer-learning-model) | Creation of star schema data warehouse and querying using SQL|
 | [Visualization](3-transfer-learning-model) |xxx|
 | [Web Scraping](3-transfer-learning-model) |xxx|
 | [Excel Modelling](3-transfer-learning-model) |xxx|
