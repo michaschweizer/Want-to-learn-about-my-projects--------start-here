@@ -20,7 +20,7 @@ Topics covered include the following:
 | Topic | Description |
 |---|---|
 | [Machine Learning](1-keras-and-tensorflow) | Deep Learning using Keras; ML on structured data using h20.ai |
-| [Big Data](2-pytorch) |Image classification with Spark running on an AWS Hadoop cluster|
+| [Big Data](2-pytorch) |Image classification with Spark running on an AWS EMR cluster|
 | [SQL Databases](3-transfer-learning-model) | Building star schema data warehouse and querying data using SQL|
 | [Visualization](3-transfer-learning-model) |RShiny; Network visualization with R; Python Leaflet|
 | [Web Scraping](3-transfer-learning-model) |Scraping tabular data from websites|
